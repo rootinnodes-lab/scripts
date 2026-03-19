@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # ==========================================================
-# NOBITA CLOUD SYSTEM | BANE-ANMESH 3S UPLINK
+# VOID TECH CLOUD SYSTEM | BANE-ANMESH 3S UPLINK
 # DATE: 2026-03-07 | UI-TYPE: SEMA-HYPER-VISUAL
 # ==========================================================
 set -euo pipefail
